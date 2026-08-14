@@ -45,7 +45,7 @@ python ".claude/skills/literki-druk/build_pdf.py" --czesc 3 --typ oba
 - **Klikalny spis treści** (skacze do części) z numerami stron.
 - **Zakładki/outline po lewej: Część → Scenka** (nagłówek `###`) — klikalne.
 - **Hasła dla dziecka jako wyróżnione ramki** (żółte tło), wyśrodkowane, dużą czcionką.
-- Tekst 12 pt (justowany), część 20, scenka 14; każda część od nowej strony; numeracja stron.
+- Duża czcionka dla 6-latka: tekst **16 pt** (justowany, interlinia 1,5), część 26, scenka 18, hasło 20; każda część od nowej strony (zajmuje ponad 1,5 strony); numeracja stron.
 - **Czcionka Arial** (z `C:\Windows\Fonts` albo `fonts/` w repo; polskie znaki OK). Gdy brak TTF Ariala — Helvetica.
 
 ## DOCX (opcjonalnie, `--typ docx`/`oba`)
