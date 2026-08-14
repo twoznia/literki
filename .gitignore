@@ -1,0 +1,11 @@
+# Wygenerowane pliki do druku (na żądanie, nie śledzimy)
+druk/
+
+# Czcionki dodawane lokalnie (opcjonalnie), jeśli duże
+# fonts/*.ttf
+
+# Śmieci systemowe / edytora
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc
