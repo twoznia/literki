@@ -30,11 +30,12 @@ import os
 from pathlib import Path
 
 FONT = "Arial"
-SIZE_BODY = 12
-SIZE_HASLO = 15
-SIZE_CHAPTER = 14
-SIZE_PART = 20
-SIZE_SERIES = 14
+# Duża czcionka (książeczka dla 6-latka): każdy rozdział ma zajmować ponad 1,5 strony.
+SIZE_BODY = 16
+SIZE_HASLO = 20
+SIZE_CHAPTER = 18
+SIZE_PART = 26
+SIZE_SERIES = 16
 
 SERIES_TITLE = "Bajki o literkach - czytamy razem"
 BOOK_TITLE = "Literkowa Kraina. Wszystkie przygody z literami"
@@ -165,6 +166,16 @@ def _register_fonts():
     pdfmetrics.registerFont(TTFont(base + "-BI", bi))
     pdfmetrics.registerFontFamily(base, normal=base, bold=base + "-B",
                                   italic=base + "-I", boldItalic=base + "-BI")
+    # Aliasujemy standardową Helvetikę na Arial. reportlab przy pustych akapitach/
+    # odstępach potrafi wybrać domyślny font (Helvetica) - dzięki temu i on jest
+    # Arialem, więc w całym PDF (we wszystkich rozdziałach) osadzony jest tylko
+    # jeden, spójny krój.
+    for std, p in (("Helvetica", reg), ("Helvetica-Bold", bold),
+                   ("Helvetica-Oblique", ital), ("Helvetica-BoldOblique", bi)):
+        try:
+            pdfmetrics.registerFont(TTFont(std, p))
+        except Exception:
+            pass
     return base, base + "-B", base + "-I", base + "-BI", label
 
 
@@ -187,8 +198,8 @@ def build_pdf(targets, opisy):
 
     REG, BOLD, ITAL, BI, label = _register_fonts()
 
-    body = ParagraphStyle("body", fontName=REG, fontSize=SIZE_BODY, leading=SIZE_BODY * 1.4,
-                          alignment=TA_JUSTIFY, spaceAfter=6)
+    body = ParagraphStyle("body", fontName=REG, fontSize=SIZE_BODY, leading=SIZE_BODY * 1.5,
+                          alignment=TA_JUSTIFY, spaceAfter=8)
     quote = ParagraphStyle("quote", parent=body, leftIndent=0.6 * cm, rightIndent=0.6 * cm)
     haslo = ParagraphStyle("haslo", fontName=BOLD, fontSize=SIZE_HASLO, alignment=TA_CENTER,
                            leading=SIZE_HASLO * 1.35, spaceBefore=8, spaceAfter=10,
@@ -329,7 +340,7 @@ def build_docx(targets, opisy):
         nrm = doc.styles["Normal"]; nrm.font.name = FONT; nrm.font.size = Pt(SIZE_BODY)
         nrm.element.rPr.rFonts.set(qn("w:eastAsia"), FONT)
         nrm.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-        nrm.paragraph_format.line_spacing = 1.3
+        nrm.paragraph_format.line_spacing = 1.5
         nrm.paragraph_format.line_spacing_rule = WD_LINE_SPACING.MULTIPLE
         for name, size in (("Heading 1", SIZE_PART), ("Heading 2", SIZE_CHAPTER)):
             st = doc.styles[name]; st.font.name = FONT; st.font.size = Pt(size)
