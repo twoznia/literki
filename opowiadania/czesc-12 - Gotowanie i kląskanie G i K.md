@@ -8,7 +8,7 @@ Pewnego ranka pod największym garnkiem zgasł ogień, a przecież goście mieli
 
 – *O rety, bez ognia nie ugotujemy nawet kropli zupy!* - westchnęła G.
 
-K wskazała zakręcony pokrętło kuchenki, na którym migała tabliczka. Poprosiła, żeby słowa przeczytały dzieci, bo dorosłym magia się nie słucha:
+K wskazała zakręcone pokrętło kuchenki, na którym migała tabliczka. Poprosiła, żeby słowa przeczytały dzieci, bo dorosłym magia się nie słucha:
 
 👉 **KURA MA KAKAO**
 
