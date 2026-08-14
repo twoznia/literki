@@ -46,7 +46,7 @@ python ".claude/skills/literki-druk/build_pdf.py" --czesc 3 --typ oba
 - **Zakładki/outline po lewej: Część → Scenka** (nagłówek `###`) — klikalne.
 - **Hasła dla dziecka jako wyróżnione ramki** (żółte tło), wyśrodkowane, dużą czcionką.
 - Tekst 12 pt (justowany), część 20, scenka 14; każda część od nowej strony; numeracja stron.
-- **Czcionka Montserrat**, jeśli TTF jest w `fonts/` (w repo) albo w `C:\Windows\Fonts`. Jeśli brak — **Arial** (polskie znaki OK). Aby mieć Montserrat: wrzuć `Montserrat-Regular.ttf` i `Montserrat-Bold.ttf` (opcjonalnie -Italic/-BoldItalic) do folderu `fonts/` w repo.
+- **Czcionka Arial** (z `C:\Windows\Fonts` albo `fonts/` w repo; polskie znaki OK). Gdy brak TTF Ariala — Helvetica.
 
 ## DOCX (opcjonalnie, `--typ docx`/`oba`)
 - python-docx; nagłówki jako style Word (Heading 1 = Część, 2 = Scenka) → panel nawigacji w Wordzie.
@@ -56,7 +56,7 @@ python ".claude/skills/literki-druk/build_pdf.py" --czesc 3 --typ oba
 
 ## WAŻNE przy druku
 1. **Do drukarni: PDF** (nie DOCX). PDF ma zaszytą czcionkę i strukturę.
-2. **Montserrat**: w PDF jest tylko, jeśli TTF jest dostępny (patrz wyżej); inaczej Arial.
+2. **Czcionka**: Arial (zaszyty w PDF); gdy brak TTF Ariala — Helvetica.
 3. **Oprawa / A5**: obecnie A4 z marginesem na oprawę (lewy 2,5 cm). Dla książeczki dla dzieci częściej A5 — do zmiany w stałych na górze skryptu.
 4. **Korekta** wszystkich części (`literki-fix wszystkie`) przed drukiem.
 5. **Ilustracje / strona redakcyjna (autor, rok, ISBN)** — dołóż, jeśli to publikacja.

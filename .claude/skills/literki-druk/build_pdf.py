@@ -20,7 +20,7 @@ Cechy PDF:
   - **hasła dla dziecka** (linie z 👉) renderowane jako WYRÓŻNIONE, wyśrodkowane ramki
     (emoji 👉 jest znacznikiem formatu w źródle; w druku zastępuje je wyróżnienie)
   - tekst 12 (justowany), część 20, scenka 14; każda część od nowej strony; numeracja stron
-  - czcionka Montserrat, jeśli TTF jest w systemie/`fonts/`; w innym razie Arial (polskie znaki OK)
+  - czcionka Arial (polskie znaki OK); gdy brak TTF Ariala - Helvetica
 DOCX (opcjonalnie): python-docx, nagłówki jako style Word + pole spisu treści (Word: Ctrl+A, F9).
 """
 import argparse
@@ -29,7 +29,7 @@ import sys
 import os
 from pathlib import Path
 
-FONT = "Montserrat"
+FONT = "Arial"
 SIZE_BODY = 12
 SIZE_HASLO = 15
 SIZE_CHAPTER = 14
@@ -142,12 +142,6 @@ def _find_font_family():
                 if p.exists():
                     return str(p)
         return None
-    mont = (find(["Montserrat-Regular.ttf", "Montserrat.ttf"]),
-            find(["Montserrat-Bold.ttf", "Montserrat-SemiBold.ttf"]),
-            find(["Montserrat-Italic.ttf"]),
-            find(["Montserrat-BoldItalic.ttf"]))
-    if mont[0] and mont[1]:
-        return mont[0], mont[1], mont[2] or mont[0], mont[3] or mont[1], "Montserrat"
     ar = (find(["arial.ttf", "Arial.ttf"]), find(["arialbd.ttf"]),
           find(["ariali.ttf"]), find(["arialbi.ttf"]))
     if ar[0] and ar[1]:
@@ -160,7 +154,7 @@ def _register_fonts():
     from reportlab.pdfbase.ttfonts import TTFont
     fam = _find_font_family()
     if not fam:
-        print("UWAGA: brak Montserrat/Arial TTF — PDF użyje Helvetica (polskie znaki mogą być gorsze).",
+        print("UWAGA: brak Arial TTF — PDF użyje Helvetica (polskie znaki mogą być gorsze).",
               file=sys.stderr)
         return "Helvetica", "Helvetica-Bold", "Helvetica-Oblique", "Helvetica-BoldOblique", "Helvetica"
     reg, bold, ital, bi, label = fam
@@ -171,8 +165,6 @@ def _register_fonts():
     pdfmetrics.registerFont(TTFont(base + "-BI", bi))
     pdfmetrics.registerFontFamily(base, normal=base, bold=base + "-B",
                                   italic=base + "-I", boldItalic=base + "-BI")
-    if label != "Montserrat":
-        print(f"Info: Montserrat nie znaleziony — PDF użyje czcionki {label}.", file=sys.stderr)
     return base, base + "-B", base + "-I", base + "-BI", label
 
 
