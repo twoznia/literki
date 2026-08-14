@@ -34,3 +34,10 @@ opowiadania/
 | 1 | A, O | [Śpiewające siostry A i O](opowiadania/czesc-01%20-%20%C5%9Apiewaj%C4%85ce%20siostry%20A%20i%20O.md) |
 | 2 | E, I | [Sprytna E i smukła I](opowiadania/czesc-02%20-%20Sprytna%20E%20i%20smuk%C5%82a%20I.md) |
 | 3 | U, Y | [Wielkie zamieszanie na końcu alfabetu](opowiadania/czesc-03%20-%20Wielkie%20zamieszanie%20na%20ko%C5%84cu%20alfabetu.md) |
+| 4 | Ą, Ę | [Ogonkowa pracownia Ą i Ę](opowiadania/czesc-04%20-%20Ogonkowa%20pracownia%20%C4%84%20i%20%C4%98.md) |
+| 5 | L, Ł | [Prosta L i Ł w kapeluszu](opowiadania/czesc-05%20-%20Prosta%20L%20i%20%C5%81%20w%20kapeluszu.md) |
+| 6 | C, Ć | [Cichy C i Ć z piórkiem](opowiadania/czesc-06%20-%20Cichy%20C%20i%20%C4%86%20z%20pi%C3%B3rkiem.md) |
+| 7 | S, Ś | [Sycząca S i szepcząca Ś](opowiadania/czesc-07%20-%20Sycz%C4%85ca%20S%20i%20szepcz%C4%85ca%20%C5%9A.md) |
+| 8 | Z, Ż, Ź | [Trzej bracia Z, Ż i Ź](opowiadania/czesc-08%20-%20Trzej%20bracia%20Z%2C%20%C5%BB%20i%20%C5%B9.md) |
+| 9 | O, Ó | [Zwykłe O i Ó z kreską](opowiadania/czesc-09%20-%20Zwyk%C5%82e%20O%20i%20%C3%93%20z%20kresk%C4%85.md) |
+| 10 | B, P | [Brzuchaci budowniczowie B i P](opowiadania/czesc-10%20-%20Brzuchaci%20budowniczowie%20B%20i%20P.md) |
