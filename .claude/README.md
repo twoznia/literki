@@ -29,6 +29,8 @@ Wywołanie w Claude Code: `/literki-generuj`, `/literki-pomysly`, `/literki-kore
 
 - [**literki-druk**](agents/literki-druk.md) — buduje plik do druku (PDF/DOCX). Domyślnie PDF najnowszej części; parametry `typ` i `czesc`. **Bez Worda/drukarki** (reportlab). Zapisuje do `druk/` (nieśledzone), wysyła pliki.
 
+- [**literki-do-druku**](agents/literki-do-druku.md) — finalizacja całości **jednym przebiegiem**: korekta wszystkich części (`literki-korekta`, ewentualny PR) → generacja PDF do `druk/` → **kontrola jakości druku** (każdy rozdział > 1,5 strony; w całym PDF tylko jeden krój, Arial, zero Helvetiki). Użyj przed oddaniem do druku.
+
 Wywołanie: poproś Claude Code o użycie agenta `literki-fabryka` (opcjonalnie z numerem/`wszystko`), `literki-fix N` / `literki-fix N M …`, albo `literki-druk N`.
 
 ## Modele
@@ -56,7 +58,8 @@ Wywołanie: poproś Claude Code o użycie agenta `literki-fabryka` (opcjonalnie 
 └─ agents/
    ├─ literki-fabryka.md
    ├─ literki-fix.md
-   └─ literki-druk.md
+   ├─ literki-druk.md
+   └─ literki-do-druku.md
 ```
 
 > Uwaga: w odróżnieniu od serii „po 10 opowiadań na zbiór", tu **jeden plik = jedna część** i plan jest **stały (20 pozycji)**. Dlatego nie ma skilla `split` (zastępuje go `literki-plan`) ani krótkiej formy — każda część musi mieć pełną strukturę z hasłami.
