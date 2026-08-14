@@ -36,3 +36,18 @@ W Górskim Królestwie wiatr zdmuchuje Ó jej kreskę-koronę, a z góry stacza 
 
 ## Część 10
 Na Wielkiej Budowie zacina się dźwig, a balon porywa rusztowanie. Brzuchaci budowniczowie B i P stawiają najwyższy blok w krainie liter, cegła po cegle. Dziecko odczytuje hasła pełne B i P (skupienie B) - poziom trudniejszy.
+
+## Część 11
+W Domu Drzwi wszystkie drzwi się zatrzaskują, a na progu ląduje ogromny tort. Bliźniacy D i T, którzy uwielbiają stukać i pukać, otwierają wszystko z powrotem. Dziecko odczytuje hasła pełne D i T (skupienie D) - poziom trudniejszy.
+
+## Część 12
+W Wielkiej Kuchni gaśnie ogień pod garnkiem, a rozbrykany kogut wskakuje na stół. Litery G i K - jedna gotuje, druga kląska językiem - ratują obiad dla gości. Dziecko odczytuje hasła pełne G i K (skupienie K) - poziom trudniejszy.
+
+## Część 13
+Na Mruczących Wzgórzach zapada się jeden pagórek, a mysz gubi drogę do norki. M z dwoma wzgórzami i N z jednym wyrównują teren i pomagają myszy. Dziecko odczytuje hasła pełne M i N (skupienie M) - poziom trudniejszy.
+
+## Część 14
+W Warczącym Warsztacie zacina się rower wyścigowy, a na tor wchodzi leniwa wrona. Warczące R i błyskawiczna W ratują wyścig. Dziecko odczytuje hasła pełne R i W (skupienie R) - poziom trudniejszy.
+
+## Część 15
+W Porcie Flag ktoś zwija flagę z masztu, a zasapany hipopotam gubi helm. Fukające F i wiecznie zziajane H stawiają flagę i wyprawiają łódki w morze. Dziecko odczytuje hasła pełne F i H (skupienie F) - poziom najtrudniejszy.
