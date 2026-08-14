@@ -33,3 +33,4 @@ opowiadania/
 |------:|--------|----------|
 | 1 | A, O | [Śpiewające siostry A i O](opowiadania/czesc-01%20-%20%C5%9Apiewaj%C4%85ce%20siostry%20A%20i%20O.md) |
 | 2 | E, I | [Sprytna E i smukła I](opowiadania/czesc-02%20-%20Sprytna%20E%20i%20smuk%C5%82a%20I.md) |
+| 3 | U, Y | [Wielkie zamieszanie na końcu alfabetu](opowiadania/czesc-03%20-%20Wielkie%20zamieszanie%20na%20ko%C5%84cu%20alfabetu.md) |

@@ -12,3 +12,6 @@
 
 ## Część 2
 Na Sylabowych Wzgórzach psuje się młyn, który mieli litery na słowa. Sprytna E i najcieńsza litera alfabetu, smukła I, ratują go we dwie - E pomysłem, a I wślizgując się w cieniutką szczelinę. Dziecko odczytuje hasła pełne E i I, żeby młyn znów ruszył - poziom łatwy.
+
+## Część 3
+Na samym końcu alfabetu zatykają się rury wodociągu, którym cała kraina liter dostaje wodę. Litery od wody - okrągła U i rozwidlona Y - odtykają rury i opanowują wielkie zamieszanie: kury w gumowych butach i stado latających ryb. Dziecko odczytuje hasła pełne U i Y, żeby woda znów popłynęła - poziom łatwy.
