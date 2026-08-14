@@ -21,6 +21,11 @@ Jedno źródło prawdy o tym, **co już napisano** — czyta go `literki-pomysly
 | 13 | M, N (M) | Dwa wzgórza M i jedno N | Mruczące Wzgórza, zapadnięty pagórek, mysz | MAMA MA MAK; MYSZ MA NORĘ; MYSZ I MISIE W NORZE | nieważne, ile masz wzgórz - liczy się pomaganie |
 | 14 | R, W (R) | Warczące R i szybka W | Warczący Warsztat, zacięty rower, wrona | RAK MA ROWER; WRONA WARCZY; ROBOT I KROWA NA ROWERZE | nie zawsze wygrywa najszybszy - ważne, by dojechać razem |
 | 15 | F, H (F) | Fukające F i zasapane H | Port Flag, skradziona flaga, hipopotam | FOKA MA FLAGĘ; HELM I HAK; FOKA I FILIP MAJĄ HELMY | nawet zmęczony dmuchaj dalej - wiatr w końcu złapie żagle |
+| 16 | J | Samotne J na rybach | Jasne Jezioro, jagody, wędka | JEŻ MA JAJO; JELEŃ JE JAGODY; JAŚ ZŁOWIŁ JEŻA NA KIJ | nawet jedna litera nigdy nie jest naprawdę sama |
+| 17 | Ń (i N) | Cichutkie Ń za innymi | Bańkowa Polana, maszyna do baniek, słoń | KOŃ MA BAŃKĘ; SŁOŃ I KOŃ; KOŃ I SŁOŃ GONIĄ BAŃKI | masz w sobie więcej odwagi, niż ci się wydaje |
+| 18 | Ź, Ć, Ś, Ń | Festiwal miękkich liter z kreskami | Wielki Festiwal Miękkich Liter, scena | GĘŚ MA GAŁĄŹ; KOŃ I ĆMA; GĘŚ, KOŃ I ĆMA NIOSĄ GAŁĄŹ | ciche i delikatne razem rozświetlą całą scenę |
+| 19 | Ą, Ę, Ń | Trudne Początki Ą, Ę i Ń | Klub Trudnych Początków, księga słów, Ogród Słów | KOŃ MA WĄSY; GĘŚ I KOŃ; KOŃ I GĘŚ MAJĄ PIĘĆ WĄSÓW | nie trzeba być pierwszym, żeby być ważnym |
+| 20 | wszystkie 32 | Wielki Finał i Słownikowe Królestwo | budowa zamku ze słów, powrót bohaterów cyklu | LITERY BUDUJĄ SŁOWA; RAZEM TWORZYMY KRÓLESTWO; KAŻDA LITERA JEST WAŻNA; CZYTAM SAM | gdy litery łączą się w słowa i ktoś je czyta, nie ma rzeczy niemożliwych |
 
 <!-- Wzór wiersza:
 | 01 | A, O (A) | Śpiewające siostry A i O | aparatowy warsztat | OKO, LATA SOWA, KOT MA SOK | razem litery tworzą słowa |
@@ -28,6 +33,6 @@ Jedno źródło prawdy o tym, **co już napisano** — czyta go `literki-pomysly
 
 ## Zbiorczo (żeby nie dublować)
 
-- **Wykorzystane motywy/krainy:** koncert liter / Alfabetowy Las, zepsuty aparat (cz. 1); młyn na słowa / Sylabowe Wzgórza (cz. 2); wodociąg i rury na końcu alfabetu (cz. 3); Ogonkowa Pracownia (cz. 4); Łąka Liter / kapelusz (cz. 5); Biblioteka Nocy (cz. 6); Śnieżny Las / sanki (cz. 7); Zielony Staw / mostek (cz. 8); Górskie Królestwo / góra (cz. 9); Wielka Budowa (cz. 10); Dom Drzwi (cz. 11); Wielka Kuchnia (cz. 12); Mruczące Wzgórza (cz. 13); Warczący Warsztat / wyścig rowerowy (cz. 14); Port Flag / przystań (cz. 15)
+- **Wykorzystane motywy/krainy:** koncert liter / Alfabetowy Las, zepsuty aparat (cz. 1); młyn na słowa / Sylabowe Wzgórza (cz. 2); wodociąg i rury na końcu alfabetu (cz. 3); Ogonkowa Pracownia (cz. 4); Łąka Liter / kapelusz (cz. 5); Biblioteka Nocy (cz. 6); Śnieżny Las / sanki (cz. 7); Zielony Staw / mostek (cz. 8); Górskie Królestwo / góra (cz. 9); Wielka Budowa (cz. 10); Dom Drzwi (cz. 11); Wielka Kuchnia (cz. 12); Mruczące Wzgórza (cz. 13); Warczący Warsztat / wyścig rowerowy (cz. 14); Port Flag / przystań (cz. 15); Jasne Jezioro / wędkarstwo (cz. 16); Bańkowa Polana (cz. 17); Wielki Festiwal Miękkich Liter (cz. 18); Klub Trudnych Początków / Ogród Słów (cz. 19); Słownikowe Królestwo - finał (cz. 20)
 - **Wykorzystane pomysły na hasła:** SOWA MA OKO, KOT MA SOK, ALA MA KOTA (cz. 1); LIS MA SER, PIES I MISIE, PIES NIESIE MISIE (cz. 2); BUK MA GUZY, KURY I BUTY, SUMY I RYBY W RURY (cz. 3); GĘŚ MA WĄSY, WĄŻ MA ZĘBY, GĄSKA I PIĘĆ WĘŻY (cz. 4); MAŁA LALA, ŁOŚ MA ŁAPY, LIS I MAŁY ŁOŚ (cz. 5); CICHA ĆMA, KOC I NOC, ĆMA I KOC W NOCY (cz. 6); ŚLIMAK MA NOS, SOWA I ŚNIEG, ŚLIMAK I ŚWINKA W LESIE (cz. 7); ŻABA MA ŻUKA, JEŻ I ŹREBAK, ŹREBAK ŻABA I ZEBRA (cz. 8); KRÓL MA WÓZ, GÓRA I LÓD, KRÓL WIEZIE WÓZ NA GÓRĘ (cz. 9); BOBER BUDUJE, BABA MA BALON, BOBER I PAN BUDUJĄ BLOK (cz. 10)
 - **Miejsca-propozycje na przyszłość:** patrz „Nazwy krain/miejsc" w [`wzorce.md`](wzorce.md).

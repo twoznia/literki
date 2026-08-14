@@ -51,3 +51,18 @@ W Warczącym Warsztacie zacina się rower wyścigowy, a na tor wchodzi leniwa wr
 
 ## Część 15
 W Porcie Flag ktoś zwija flagę z masztu, a zasapany hipopotam gubi helm. Fukające F i wiecznie zziajane H stawiają flagę i wyprawiają łódki w morze. Dziecko odczytuje hasła pełne F i H (skupienie F) - poziom najtrudniejszy.
+
+## Część 16
+Nad Jasnym Jeziorem mieszka samotne J, które skacze jak haczyk na ryby. Wspólnie z jeżem, jeleniem i chłopcem Jasiem odzyskuje jagody i zgubiony kubek. Dziecko odczytuje hasła pełne J, ucząc się, że nigdy nie jest się naprawdę samemu - poziom najtrudniejszy.
+
+## Część 17
+Na Bańkowej Polanie psuje się maszyna do baniek, a w jednej z nich odlatuje słoń. Najnieśmielsza litera alfabetu, cichutkie Ń, po raz pierwszy wychodzi na przód i ratuje zabawę. Dziecko odczytuje hasła pełne Ń (i N) - poziom najtrudniejszy.
+
+## Część 18
+Na Wielkim Festiwalu Miękkich Liter gasną światła tuż przed występem. Ś, Ć, Ź i Ń - wszystkie z delikatnymi kreseczkami - wspólnie rozświetlają scenę i ratują pokaz. Dziecko odczytuje hasła łączące Ź, Ć, Ś i Ń - poziom najtrudniejszy.
+
+## Część 19
+W Klubie Trudnych Początków spotykają się Ą, Ę i Ń - litery, od których nie zaczyna się żadne słowo. Odkrywają, że kończą i ozdabiają najpiękniejsze wyrazy, i urządzają swoje święto. Dziecko odczytuje hasła pełne Ą, Ę i Ń - poziom najtrudniejszy.
+
+## Część 20
+Wielki Finał: wszystkie 32 litery zbierają się, by zbudować Słownikowe Królestwo - zamek ze słów. Wracają bohaterowie z całego cyklu, a ostatnie hasło - CZYTAM SAM - to zwieńczenie całej podróży z literami. Dziecko odczytuje hasła łączące wszystkie litery - poziom najtrudniejszy.
