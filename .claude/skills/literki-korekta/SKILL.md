@@ -23,7 +23,11 @@ Każde hasło, które ma przeczytać dziecko, MUSI być:
 - poprzedzone emoji **👉**,
 - pisane **DUŻYMI LITERAMI** (WERSALIKI),
 - **pogrubione** (`**...**`).
-Wzór: `👉 **KOT MA SOK**`. Popraw hasła, którym brakuje 👉, pogrubienia albo są małymi literami. Sprawdź, czy przed hasłem jest linia rodzica (`*Rodzic:*` + wprowadzenie), a po nim narracja z widocznym **skutkiem** odczytania (coś się dzieje). Jeśli skutku brak — zgłoś (hasło ma „otwierać bramkę").
+Wzór: `👉 **KOT MA SOK**`. Popraw hasła, którym brakuje 👉, pogrubienia albo są małymi literami. Po haśle ma być narracja z widocznym **skutkiem** odczytania (coś się dzieje) — jeśli skutku brak, zgłoś (hasło ma „otwierać bramkę").
+
+**Bez etykiety „Rodzic:"** — jeśli w tekście jest „Rodzic:" albo „*Rodzic:*"/„Dziecko:", **usuń** ją (cała narracja to zwykły tekst; dziecko czyta tylko linie z 👉).
+
+**Przypomnienie „tylko dzieci" przed każdym hasłem (obowiązkowe):** przed każdym `👉` musi być zdanie mówiące, że hasło czytają **tylko dzieci, bo magia nie działa na dorosłych**. Sprawdź, że jest, i że **za każdym razem sformułowane inaczej** (nie ten sam tekst przy różnych hasłach ani powtórki z innych części — pula w `wzorce.md`). Brak przypomnienia albo powtórzony tekst → zgłoś/popraw.
 
 ### 2. Litery przewodnie w hasłach (wartość edukacyjna)
 - Sprawdź, że hasła są **nasycone literą/literami przewodnimi** danej części (zwłaszcza literą „Skupienia"). Jeśli hasło prawie nie zawiera ćwiczonej litery — **zgłoś** i zaproponuj mocniejszy wariant (nie zmieniaj sam sensu sceny bez potrzeby).
