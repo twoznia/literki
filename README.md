@@ -46,3 +46,8 @@ opowiadania/
 | 13 | M, N | [Dwa wzgórza M i jedno N](opowiadania/czesc-13%20-%20Dwa%20wzg%C3%B3rza%20M%20i%20jedno%20N.md) |
 | 14 | R, W | [Warczące R i szybka W](opowiadania/czesc-14%20-%20Warcz%C4%85ce%20R%20i%20szybka%20W.md) |
 | 15 | F, H | [Fukające F i zasapane H](opowiadania/czesc-15%20-%20Fukaj%C4%85ce%20F%20i%20zasapane%20H.md) |
+| 16 | J | [Samotne J na rybach](opowiadania/czesc-16%20-%20Samotne%20J%20na%20rybach.md) |
+| 17 | Ń | [Cichutkie Ń za innymi](opowiadania/czesc-17%20-%20Cichutkie%20%C5%83%20za%20innymi.md) |
+| 18 | Ź, Ć, Ś, Ń | [Festiwal miękkich liter z kreskami](opowiadania/czesc-18%20-%20Festiwal%20mi%C4%99kkich%20liter%20z%20kreskami.md) |
+| 19 | Ą, Ę, Ń | [Trudne Początki Ą, Ę i Ń](opowiadania/czesc-19%20-%20Trudne%20Pocz%C4%85tki%20%C4%84%2C%20%C4%98%20i%20%C5%83.md) |
+| 20 | wszystkie 32 | [Wielki Finał i Słownikowe Królestwo](opowiadania/czesc-20%20-%20Wielki%20Fina%C5%82%20i%20S%C5%82ownikowe%20Kr%C3%B3lestwo.md) |
