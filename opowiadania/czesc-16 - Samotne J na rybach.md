@@ -36,4 +36,4 @@ J zawinęła się jeszcze mocniej, aż zrobił się z niej idealny haczyk, zacze
 
 Chlup, hop! Zza trzcin wyszedł chłopiec o imieniu Jaś z wędką, na której zamiast ryby przyczepił się roześmiany jeż, a razem z nim wypłynął zgubiony kubek J.
 
-I tak nad Jasnym Jeziorem zapanowała radość - jagody były w koszu, kubek wrócił do właścicielki, a samotne J odkryło coś ważnego: nawet gdy jest się jedną, jedyną literą, nigdy nie jest się naprawdę samemu - zawsze znajdą się przyjaciele.
+I tak nad Jasnym Jeziorem zapanowała radość - jagody były w koszu, kubek wrócił do właścicielki, a samotne J odkryła coś ważnego: nawet gdy jest się jedną, jedyną literą, nigdy nie jest się naprawdę samemu - zawsze znajdą się przyjaciele.

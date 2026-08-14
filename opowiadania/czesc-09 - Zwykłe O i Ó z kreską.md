@@ -20,7 +20,7 @@ Ledwie siostry ruszyły w drogę, z góry stoczył się wielki wóz pełen złot
 
 – *Uwaga, ten wóz zaraz nas staranuje!* - pisnęło O.
 
-Trzeba go było zatrzymać magicznym hasłem. Tylko pamiętajcie, dorośli - te słowa działają wyłącznie w dziecięcych ustach:
+Trzeba go było zatrzymać magicznym hasłem, a to zaklęcie słyszą tylko dziecięce uszy i wypowiadają tylko dziecięce usta:
 
 👉 **GÓRA I LÓD**
 

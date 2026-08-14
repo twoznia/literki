@@ -6,7 +6,7 @@ No i słuchajcie, co się działo w Warczącym Warsztacie. Budowano tam najszybs
 
 Pewnego ranka wielki rower wyścigowy nagle się zaciął i ani rusz nie chciał ruszyć z miejsca.
 
-– *O rety, bez tego roweru nie wygramy wyścigu!* - warknął R.
+– *O rety, bez tego roweru nie wygramy wyścigu!* - warknęła R.
 
 W wskazała zardzewiałą przerzutkę, na której migała tabliczka z magicznymi słowami. Poprosiła, żeby przeczytały je dzieci, bo dorosłym magia się nie słucha:
 
@@ -30,7 +30,7 @@ Wrona spróbowała warknąć jak R - „krrra!" - tak ją to rozbawiło, że zer
 
 Na koniec przed R i W rozciągnął się cały tor - długi, kręty i pełen zakrętów, a meta była gdzieś daleko za horyzontem.
 
-Warczące R chwyciło kierownicę, szybka W zamieniła się w podmuch wiatru i oboje poprosili dzieci o ostatnie hasło, bo tylko dzieci znają sekretny głos tych liter:
+Warczące R chwyciła kierownicę, szybka W zamieniła się w podmuch wiatru i obie poprosiły dzieci o ostatnie hasło, bo tylko dzieci znają sekretny głos tych liter:
 
 👉 **ROBOT I KROWA NA ROWERZE**
 

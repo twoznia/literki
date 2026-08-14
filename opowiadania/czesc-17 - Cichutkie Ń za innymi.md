@@ -36,4 +36,4 @@ Nieśmiała Ń nabrała odwagi, wyszła po raz pierwszy zza cudzych pleców i - 
 
 Wziuuu, pyk, pyk, pyk! Z maszyny buchnęła chmura ogromnych baniek, a koń i słoń zaczęły je gonić po całej polanie, aż wszyscy zaśmiewali się do łez.
 
-I tak na Bańkowej Polanie zapanowała radość - bańki fruwały pod niebo, słoń był bezpieczny, a cichutkie Ń odkryło coś ważnego: nawet jeśli lubisz chować się za innymi, czasem warto wyjść na przód - bo masz w sobie więcej odwagi, niż ci się wydaje.
+I tak na Bańkowej Polanie zapanowała radość - bańki fruwały pod niebo, słoń był bezpieczny, a cichutkie Ń odkryła coś ważnego: nawet jeśli lubisz chować się za innymi, czasem warto wyjść na przód - bo masz w sobie więcej odwagi, niż ci się wydaje.
