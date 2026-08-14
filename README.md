@@ -29,8 +29,6 @@ opowiadania/
 
 ## Spis części
 
-*(jeszcze pusty — pierwsza część zostanie dopisana przez `literki-fabryka`)*
-
 | Część | Litery | Podtytuł |
 |------:|--------|----------|
-| — | — | *(brak)* |
+| 1 | A, O | [Śpiewające siostry A i O](opowiadania/czesc-01%20-%20%C5%9Apiewaj%C4%85ce%20siostry%20A%20i%20O.md) |

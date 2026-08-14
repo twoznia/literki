@@ -6,3 +6,6 @@
 ## Część 1
 Śpiewające siostry A i O ratują wielki aparat, który zepsuł się w samym środku alfabetowego koncertu. Po drodze dziecko odczytuje magiczne hasła pełne A i O, żeby akcja ruszyła dalej. Prosta, wesoła historia na rozgrzewkę - poziom łatwy.
 -->
+
+## Część 1
+Śpiewające siostry A i O ratują zepsuty aparat, który miał zrobić literom zdjęcie na wielkim koncercie w Alfabetowym Lesie. Dziecko odczytuje magiczne hasła pełne A i O, żeby aparat się obudził, odmroził szkiełko i pstryknął najpiękniejsze zdjęcie w dziejach lasu. Wesoła rozgrzewka na start cyklu - poziom łatwy.
