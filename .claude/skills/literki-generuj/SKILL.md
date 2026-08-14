@@ -14,7 +14,8 @@ Pełny plan 20 części i zasady bazowe są w [`info/idea.md`](../../info/idea.m
 - **Numer części (1-20)** wybiera litery przewodnie — patrz „PLAN CYKLU" w [`info/idea.md`](../../info/idea.md). Nie zmieniaj przypisania liter do części.
 - **Mechanika naprzemienna:** w każdej bajce **od 3 do 5 haseł dla dziecka**. Hasło jest bramką: dopóki dziecko go nie przeczyta, akcja stoi. Po odczytaniu — dzieje się coś zabawnego (kłódka wystrzeliwuje, most się pojawia, potwór zamienia się w kotka).
 - **Hasła MUSZĄ zawierać jak najwięcej słów z literą/literami przewodnimi** danej części (patrz „Jak budować hasła"). To sedno ćwiczenia — nie hasła „ozdobne", tylko celowe pod literę.
-- **Formatowanie hasła (sztywne):** KAŻDE hasło w OSOBNEJ LINII, poprzedzone emoji 👉, pisane **DUŻYMI LITERAMI i POGRUBIONE**. Przed hasłem krótka linia rodzica („*Rodzic:*" + wprowadzenie), która daje kontekst („odczytał napis", „na tabliczce widniało").
+- **Formatowanie hasła (sztywne):** KAŻDE hasło w OSOBNEJ LINII, poprzedzone emoji 👉, pisane **DUŻYMI LITERAMI i POGRUBIONE**. Bez etykiety „Rodzic:". Przed hasłem zwykłe zdanie narracji, które (a) daje kontekst i (b) **przypomina, że czytają tylko dzieci, bo magia nie działa na dorosłych** — patrz reguła niżej i pula w `wzorce.md`.
+- **Tylko dzieci czytają hasła:** przed każdym hasłem musi pojawić się przypomnienie „to dla dzieci, magia nie działa na dorosłych", **za każdym razem inaczej sformułowane** (rotuj z puli „Zapowiedź hasła" w `wzorce.md`).
 - **Tekst rodzica** to zwykły akapit prozą (płynna fabuła). **Tekst dziecka** to tylko hasła — nigdy nie wrzucaj dziecku długiego zdania do przeczytania.
 - **Poziom trudności** dobierany do numeru: na początku (część 1-5) ŁATWY — hasła krótkie, 2-3 słowa, proste sylaby (KOT MA SOK). Dalej (część 6-14) TRUDNIEJSZY — dłuższe słowa, więcej liter przewodnich. Finałowe (15-20) — najtrudniejsze, dłuższe hasła, zbitki. Użytkownik może nadpisać poziom.
 - **Myślniki:** w narracji i tytułach TYLKO łącznik „-" (NIGDY em dash „—"). **Dialogi ZAWSZE od półpauzy „–"** (`– *kwestia*`), nigdy od „-" (Markdown zrobiłby bullety); atrybucja po kwestii też „–".
@@ -67,14 +68,15 @@ Hasło to serce ćwiczenia. Zasady:
 
 - **Tekst dla rodzica:** zwykły akapit prozą, ok. **200-300 słów** łącznie w całej bajce dla warstwy fabularnej (rozłożony między hasłami). Pełne zdania, płynna narracja.
 - **Tekst dla dziecka:** **KAŻDE HASŁO W OSOBNEJ LINII**, poprzedzone emoji **👉**, pisane **DUŻYMI LITERAMI i POGRUBIONE**.
-- **Oznaczaj role** kursywą na początku linii wprowadzającej: `*Rodzic:*` przed narracją prowadzącą do hasła. Samo hasło jest w osobnej linii (dziecko od razu widzi, co czyta).
-- **Wzór (z `idea.md`):**
+- **NIE używaj etykiety „Rodzic:"** (ani „*Rodzic:*", ani „Dziecko:"). Cały tekst rodzica to po prostu płynna narracja; jedyne, co dziecko czyta, to linie z `👉`.
+- **Przed KAŻDYM hasłem** wpleć w narrację przypomnienie, że hasło czytają **tylko dzieci, bo magia nie działa na dorosłych**. Zwykle robi to któraś postać (prosi dzieci o pomoc). Linia kończy się dwukropkiem i prowadzi wprost do `👉`. **Za każdym razem sformułuj to inaczej** — rotuj z puli „Zapowiedź hasła — TYLKO DZIECI czytają" w [`opowiadania/wzorce.md`](../../../opowiadania/wzorce.md); nie powtarzaj tego samego zdania w obrębie bajki ani między częściami.
+- **Wzór:**
 
-  > *Rodzic:* Pan Bóbr popatrzył na tajemniczą kłódkę i odczytał napis:
+  > Pan Bóbr popatrzył na tajemniczą kłódkę i poprosił, żeby napis przeczytały dzieci, bo magia nie działa na dorosłych:
   >
   > 👉 **KOT MA SOK**
   >
-  > *Rodzic:* Kłódka natychmiast wystrzeliła w powietrze...
+  > Kłódka natychmiast wystrzeliła w powietrze...
 
 - **Myślniki:** narracja/tytuły — łącznik „-" (nigdy „—"). Dialogi — półpauza „–" na początku kwestii: `– *Aaa, znów awaria aparatu!*`. Nigdy nie zaczynaj kwestii od „-".
 - **Markdown jak w repo:** `#` z tytułem części, `###` zabawne nagłówki scenek (sam pogrubiony tytuł, bez „Rozdział 1/2/3:"), imiona/litery-bohaterów można pogrubić przy pierwszym pojawieniu.

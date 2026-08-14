@@ -9,3 +9,6 @@
 
 ## Część 1
 Śpiewające siostry A i O ratują zepsuty aparat, który miał zrobić literom zdjęcie na wielkim koncercie w Alfabetowym Lesie. Dziecko odczytuje magiczne hasła pełne A i O, żeby aparat się obudził, odmroził szkiełko i pstryknął najpiękniejsze zdjęcie w dziejach lasu. Wesoła rozgrzewka na start cyklu - poziom łatwy.
+
+## Część 2
+Na Sylabowych Wzgórzach psuje się młyn, który mieli litery na słowa. Sprytna E i najcieńsza litera alfabetu, smukła I, ratują go we dwie - E pomysłem, a I wślizgując się w cieniutką szczelinę. Dziecko odczytuje hasła pełne E i I, żeby młyn znów ruszył - poziom łatwy.

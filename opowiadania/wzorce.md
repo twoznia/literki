@@ -12,6 +12,19 @@ Bęc! · Chlust! · Pyk! · Wziuuu! · KLIK! · Trach! · Bul-bul-bul! · Fjuuu!
 - „Dawno, dawno temu, tuż za ostatnią stroną elementarza…"
 - „W krainie, gdzie z liter buduje się wszystko…"
 
+## Zapowiedź hasła — TYLKO DZIECI czytają (rotuj — obowiązkowo przed każdym hasłem)
+Przed **każdym** hasłem wpleć w narrację przypomnienie, że hasło czytają **tylko dzieci, bo magia nie działa na dorosłych**. **Za każdym razem sformułuj to inaczej** (także między częściami). Linia kończy się dwukropkiem i prowadzi wprost do `👉`. Warianty (twórz też własne):
+- „…i poprosił, żeby przeczytały to dzieci, bo magia nie działa na dorosłych:"
+- „To zaklęcie słucha tylko dzieci - dorośli mogą sobie darować, u nich magia śpi:"
+- „Uwaga, dorośli! Tych słów wam czytać nie wolno - otworzą się tylko od dziecięcego głosu:"
+- „Tylko dzieci potrafią obudzić te litery; dorośli niech po prostu patrzą:"
+- „Magia jest kapryśna i słucha wyłącznie dzieci, więc niech przeczyta dziecko:"
+- „Niech przeczytają dzieci - gdy próbuje dorosły, litery udają, że go nie słyszą:"
+- „To hasło działa tylko w dziecięcych ustach; dorosłym ani drgnie:"
+- „Dorośli, buzie na kłódkę - to zadanie wyłącznie dla dzieci:"
+- „Zaklęcie otworzy się tylko wtedy, gdy przeczyta je dziecko, a nie dorosły:"
+- „Tylko dzieci znają sekretny głos tych liter - dorośli niestety nie:"
+
 ## Skutki odczytania hasła (co się dzieje, gdy dziecko przeczyta)
 - Kłódka wystrzeliła w powietrze jak korek od szampana.
 - Brama rozsunęła się z hukiem i zaprosiła do środka.

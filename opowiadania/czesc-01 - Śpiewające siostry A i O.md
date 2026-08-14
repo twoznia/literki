@@ -8,13 +8,11 @@ Wszystko byłoby cudownie, gdyby nie stary aparat pana Bobra, który miał zrobi
 
 – *Awaria! Wielka aparatowa awaria!* - jęknął pan Bóbr i złapał się za głowę.
 
-Na szczęście A wiedziała, co robić. Na aparacie zaświeciła się tajemnicza tabliczka, a żeby ją włączyć, ktoś musiał odczytać magiczne słowa.
-
-*Rodzic:* Pan Bóbr wskazał migającą tabliczkę i poprosił o pomoc:
+Na szczęście A wiedziała, co robić. Na aparacie zaświeciła się tajemnicza tabliczka, a żeby ją włączyć, ktoś musiał odczytać magiczne słowa. Pan Bóbr wskazał migającą tabliczkę i poprosił, żeby przeczytały ją dzieci, bo magia nie działa na dorosłych:
 
 👉 **SOWA MA OKO**
 
-*Rodzic:* Aparat zamrugał, obudził się i - Klik! - zrobił pierwsze zdjęcie. Ale to jeszcze nie był koniec kłopotów.
+Aparat zamrugał, obudził się i - Klik! - zrobił pierwsze zdjęcie. Ale to jeszcze nie był koniec kłopotów.
 
 ### Zamarznięte szkiełko
 
@@ -22,25 +20,21 @@ Aparat zrobił zdjęcie i... zastygł. Jego okrągłe szkiełko pokryło się sz
 
 – *O nie, soczewka zamarzła na kość!* - pisnęła O i aż zrobiła się jeszcze bardziej okrągła ze zdenerwowania.
 
-A wcale się nie bała. Wskoczyła na pokrywkę i zaśpiewała ciepłe „Aaaa!", żeby szkiełko odtajało. Potrzebne było jeszcze jedno hasło - takie ze słodkim, ciepłym słowem.
-
-*Rodzic:* A pokazała łapką na drugą tabliczkę:
+A wcale się nie bała. Wskoczyła na pokrywkę i zaśpiewała ciepłe „Aaaa!", żeby szkiełko odtajało. Potrzebne było jeszcze jedno hasło - ale to zaklęcie słucha tylko dzieci, więc siostra A poprosiła, żeby odczytały je maluchy, a nie dorośli:
 
 👉 **KOT MA SOK**
 
-*Rodzic:* Szron stopniał w jednej chwili, a z aparatu buchnęła para - Fjuuu! - jak z małego czajnika.
+Szron stopniał w jednej chwili, a z aparatu buchnęła para - Fjuuu! - jak z małego czajnika.
 
 ### Wielkie, głośne zdjęcie
 
 Teraz aparat był gotowy, ale okazało się, że jest jeszcze zaspany i nie chce zrobić ostatniego, najważniejszego zdjęcia całego chóru liter. Trzeba go było obudzić naprawdę głośnym hasłem.
 
-Siostry stanęły obok siebie: smukła A i okrągła O.
-
-*Rodzic:* Wszystkie litery nabrały powietrza i zawołały razem:
+Siostry stanęły obok siebie: smukła A i okrągła O. Zawołały do dzieci, żeby to one wypowiedziały ostatnie zaklęcie, bo w dorosłych ustach litery ani drgną:
 
 👉 **ALA MA KOTA, A SOWA MA OKO**
 
-*Rodzic:* Bęc! Aparat wystrzelił w górę wielki błysk, a potem - Klik! - zrobił najpiękniejsze zdjęcie w dziejach Alfabetowego Lasu.
+Bęc! Aparat wystrzelił w górę wielki błysk, a potem - Klik! - zrobił najpiękniejsze zdjęcie w dziejach Alfabetowego Lasu.
 
 Zdjęcie było tak wesołe, że wszyscy się na nim śmiali, nawet pan Bóbr, który zwykle był bardzo poważny.
 
