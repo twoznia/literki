@@ -41,3 +41,8 @@ opowiadania/
 | 8 | Z, Ż, Ź | [Trzej bracia Z, Ż i Ź](opowiadania/czesc-08%20-%20Trzej%20bracia%20Z%2C%20%C5%BB%20i%20%C5%B9.md) |
 | 9 | O, Ó | [Zwykłe O i Ó z kreską](opowiadania/czesc-09%20-%20Zwyk%C5%82e%20O%20i%20%C3%93%20z%20kresk%C4%85.md) |
 | 10 | B, P | [Brzuchaci budowniczowie B i P](opowiadania/czesc-10%20-%20Brzuchaci%20budowniczowie%20B%20i%20P.md) |
+| 11 | D, T | [Stukający i pukający bliźniacy D i T](opowiadania/czesc-11%20-%20Stukaj%C4%85cy%20i%20pukaj%C4%85cy%20bli%C5%BAniacy%20D%20i%20T.md) |
+| 12 | G, K | [Gotowanie i kląskanie G i K](opowiadania/czesc-12%20-%20Gotowanie%20i%20kl%C4%85skanie%20G%20i%20K.md) |
+| 13 | M, N | [Dwa wzgórza M i jedno N](opowiadania/czesc-13%20-%20Dwa%20wzg%C3%B3rza%20M%20i%20jedno%20N.md) |
+| 14 | R, W | [Warczące R i szybka W](opowiadania/czesc-14%20-%20Warcz%C4%85ce%20R%20i%20szybka%20W.md) |
+| 15 | F, H | [Fukające F i zasapane H](opowiadania/czesc-15%20-%20Fukaj%C4%85ce%20F%20i%20zasapane%20H.md) |
