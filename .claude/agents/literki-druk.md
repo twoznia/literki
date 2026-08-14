@@ -23,7 +23,7 @@ Tworzysz plik do druku skryptem `literki-druk` (`build_pdf.py`).
 3. **Zweryfikuj, że NIE wstał Word:** `Get-Process WINWORD` ma być puste. Sprawdź, że plik(i) są w `druk/`.
 4. **Wyślij pliki użytkownikowi** (SendUserFile) i podaj ścieżki.
 5. **Nie commituj** — `druk/` jest w `.gitignore`.
-6. W raporcie krótko: co powstało, że PDF ma klikalny spis treści, zakładki (część→scenka) i **wyróżnione ramki z hasłami dla dziecka**, oraz czy użyto Montserrat czy Ariala (jeśli Arial — dopisz, jak dołożyć Montserrat: TTF do `fonts/`).
+6. W raporcie krótko: co powstało, że PDF ma klikalny spis treści, zakładki (część→scenka) i **wyróżnione ramki z hasłami dla dziecka** (czcionka Arial).
 
 ## Zasady
 - Formatowanie i reguły — wg skilla `literki-druk` (nie zmieniaj silnika na Worda).
